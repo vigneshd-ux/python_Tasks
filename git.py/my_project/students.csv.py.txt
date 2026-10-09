@@ -1,0 +1,6 @@
+id,name,age,marks
+1,Vignesh,20,85
+2,Rahul,21,78
+3,Arun,19,92
+4,Kumar,22,65
+5,Ajay,20,88
